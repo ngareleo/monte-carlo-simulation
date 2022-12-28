@@ -1,2 +1,3 @@
-### monte-carlo-simulation
-Approximation of PI using monte carlo simulation
+# Monte Carlo Simulation
+
+A python program that approximates the value of PI using monte carlo simulation
